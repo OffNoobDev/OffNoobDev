@@ -4,6 +4,8 @@
 Sou um **desenvolvedor Python** apaixonado por tecnologia, resolução de problemas e criação de soluções eficientes e escaláveis. **Tenho experiência em automação e ciência de dados** e estou sempre explorando novas tecnologias para aprimorar minhas habilidades.
 
 # 🚀 Minhas Competências
+
+&nbsp;
 **Linguagens**: Python.
 
 &nbsp;
@@ -23,6 +25,8 @@ Aprendizado e aplicação de [tecnologia/linguagem]
 Colaboração em projetos open source e de automação.-->
 
 # 📫 Entre em Contato
+
+&nbsp;
 **Email**: offnoobdev777.@gmail.com
 
 &nbsp;

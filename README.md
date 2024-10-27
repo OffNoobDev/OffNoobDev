@@ -1,6 +1,7 @@
 # Olá! 👋 Bem-vindo ao meu perfil no GitHub 
+
 &nbsp;
-Sou um **desenvolvedor Python** apaixonado por tecnologia, resolução de problemas e criação de soluções eficientes e escaláveis. Tenho experiência em automação e ciência de dados e estou sempre explorando novas tecnologias para aprimorar minhas habilidades.
+Sou um **desenvolvedor Python** apaixonado por tecnologia, resolução de problemas e criação de soluções eficientes e escaláveis. **Tenho experiência em automação e ciência de dados** e estou sempre explorando novas tecnologias para aprimorar minhas habilidades.
 
 # 🚀 Minhas Competências
 **Linguagens**: Python.
@@ -28,4 +29,4 @@ Colaboração em projetos open source e de automação.-->
 **LinkedIn**: ..............
 
 &nbsp;
-**Instagram: https://www.instagram.com/offnoobdev/
+**Instagram**: https://www.instagram.com/offnoobdev/

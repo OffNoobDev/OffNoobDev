@@ -1,7 +1,7 @@
-#Olá! 👋 Bem-vindo ao meu perfil no GitHub
+# `#0969DA`Olá! 👋 Bem-vindo ao meu perfil no GitHub
 Sou um desenvolvedor Python apaixonado por tecnologia, resolução de problemas e criação de soluções eficientes e escaláveis. Tenho experiência em automação e ciência de dados e estou sempre explorando novas tecnologias para aprimorar minhas habilidades.
 
-#🚀 Minhas Competências
+# 🚀 Minhas Competências
 Linguagens: Python.
 Frameworks e Ferramentas: Django, Flask, Pandas. 
 Metodologias: Desenvolvimento Ágil, Teste de Unidade.
@@ -16,7 +16,7 @@ Atualmente, estou trabalhando em:
 Aprendizado e aplicação de [tecnologia/linguagem]
 Colaboração em projetos open source e de automação.-->
 
-#📫 Entre em Contato
-Email: seu.email@dominio.com
-LinkedIn: Seu LinkedIn
-Twitter/GitHub: Seu perfil no Twitter ou GitHub
+# 📫 Entre em Contato
+Email: offnoobdev777.@gmail.com
+LinkedIn: ..............
+Twitter/GitHub: 

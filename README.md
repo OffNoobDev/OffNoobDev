@@ -4,8 +4,10 @@ Sou um **desenvolvedor Python** apaixonado por tecnologia, resolução de proble
 
 # 🚀 Minhas Competências
 **Linguagens**: Python.
+
 &nbsp;
 **Frameworks e Ferramentas**: Django, Flask, Pandas. 
+
 &nbsp;
 **Metodologias**: Desenvolvimento Ágil, Teste de Unidade.
 
@@ -21,7 +23,9 @@ Colaboração em projetos open source e de automação.-->
 
 # 📫 Entre em Contato
 **Email**: offnoobdev777.@gmail.com
+
 &nbsp;
 **LinkedIn**: ..............
+
 &nbsp;
-**Instagram: [Instagram] https://www.instagram.com/offnoobdev/
+**Instagram: https://www.instagram.com/offnoobdev/

@@ -1,4 +1,4 @@
-# `#0969DA`Olá! 👋 Bem-vindo ao meu perfil no GitHub
+# Olá! 👋 Bem-vindo ao meu perfil no GitHub 
 Sou um desenvolvedor Python apaixonado por tecnologia, resolução de problemas e criação de soluções eficientes e escaláveis. Tenho experiência em automação e ciência de dados e estou sempre explorando novas tecnologias para aprimorar minhas habilidades.
 
 # 🚀 Minhas Competências

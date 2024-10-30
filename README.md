@@ -34,3 +34,6 @@ Colaboração em projetos open source e de automação.-->
 
 &nbsp;
 **Instagram**: https://www.instagram.com/offnoobdev/
+
+&nbsp;
+**Tiktok**: https://www.tiktok.com/@offnoobdev

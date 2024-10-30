@@ -30,7 +30,7 @@ Colaboração em projetos open source e de automação.-->
 **Email**: offnoobdev777.@gmail.com
 
 &nbsp;
-**LinkedIn**: ..............
+**LinkedIn**: https://www.linkedin.com/in/carlos-eduardo-b63825335/
 
 &nbsp;
 **Instagram**: https://www.instagram.com/offnoobdev/
